@@ -1,7 +1,7 @@
 from colored import fore, style
-from board import Board
-from code_creator import CodeMaker
-from player import Player
+from pythonMastermind.board import Board
+from pythonMastermind.code_creator import CodeMaker
+from pythonMastermind.player import Player
 import random
 
 class Juego:
